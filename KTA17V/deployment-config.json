@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "172.18.24.57",
+    "username": "root",
+    "password": "Justdoitbabe.3345",
+    "port": 22,
+    "remotePath": "/var/www/KTA17V/maryjane",
+    "uploadOnSave": true
+}
